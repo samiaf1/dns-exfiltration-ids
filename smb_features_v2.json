@@ -1,0 +1,21 @@
+[
+ "Flow Duration",
+ "Total Fwd Packets",
+ "Total Backward Packets",
+ "Total Length of Fwd Packets",
+ "Total Length of Bwd Packets",
+ "Fwd Packet Length Mean",
+ "Bwd Packet Length Max",
+ "Bwd Packet Length Mean",
+ "Flow Bytes/s",
+ "Flow Packets/s",
+ "Bwd Packets/s",
+ "Flow IAT Mean",
+ "Flow IAT Std",
+ "Down/Up Ratio",
+ "Average Packet Size",
+ "Packet Length Std",
+ "Active Mean",
+ "Idle Mean",
+ "Bwd_Fwd_Byte_Ratio"
+]
